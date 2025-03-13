@@ -36,10 +36,13 @@ MaxPlayers=100
 9. Open the project in Unreal Engine and enable the plugin `Online Subsytem Steam` in the `Edit` -> `Plugins` menu
 10. Restart the editor
 
-## Usage
- 
+## Configuration
+ In your MainMenu level, create a new `Level Blueprint` and add the following nodes:
 ![MainMenu LevelBlueprint.png](MainMenu_LevelBlueprint.png)
  - TypeOfMatch will be the type of match you want to create, it can be a `QuickMatch`, `CustomMatch`, `FreeForAll`, ...
  - LobbyPath is the path to the level you want to load after creating the session. 
  - You can get it by right-clicking on it, then `Copy File Path` and replace the path up to `/Content/` with `/Game/` and removing the `.umap` extension.
 _**Exemple :** for the ThirdPersonMap it is `/Game/ThirdPerson/Maps/ThirdPersonMap`_
+
+## Use & Testing
+Since it uses the `OnlineSubsystemSteam` plugin, you will need to have Steam running on your computer to test the plugin. You can test the plugin by creating a session and joining it with another player. The other player need to be on another computer with a different Steam account.
