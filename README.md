@@ -11,7 +11,7 @@
 
 ## Usage
  
-![MainMenu LevelBlueprint.png](MainMenu LevelBlueprint.png)
+![MainMenu LevelBlueprint.png](MainMenu_LevelBlueprint.png)
  - TypeOfMatch will be the type of match you want to create, it can be a `QuickMatch`, `CustomMatch`, `FreeForAll`, ...
  - LobbyPath is the path to the level you want to load after creating the session. 
  - You can get it by right-clicking on it, then `Copy File Path` and replace the path up to `/Content/` with `/Game/` and removing the `.umap` extension.
