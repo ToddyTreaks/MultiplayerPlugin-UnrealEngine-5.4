@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSession-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Intermediate\Build\Win64\x64\TP2ReseauEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Plugins\MultiplayerSession\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSession\Module.MultiplayerSession.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Plugins\MultiplayerSession\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSession\Menu.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Plugins\MultiplayerSession\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSession\MultiplayerSession.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Plugins\MultiplayerSession\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSession\MultiplayerSessionsSubsystem.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Plugins\MultiplayerSession\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSession\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\TP2Reseau\Plugins\MultiplayerSession\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSession\UnrealEditor-MultiplayerSession-0001.lib"

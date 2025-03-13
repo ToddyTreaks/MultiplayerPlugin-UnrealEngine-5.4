@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\tp2reseau\\plugins\\multiplayersession\\source\\multiplayersession\\private\\multiplayersession.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\tp2reseau\\intermediate\\build\\win64\\x64\\tp2reseaueditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\tp2reseau\\plugins\\multiplayersession\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayersession\\definitions.multiplayersession.h",
+            "c:\\users\\user\\documents\\unreal projects\\tp2reseau\\plugins\\multiplayersession\\source\\multiplayersession\\public\\multiplayersession.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
