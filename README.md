@@ -1,6 +1,8 @@
 # MultiplayerPlugin-UnrealEngine 5.4
  Plugin for handling online multiplayer sessions in UE 5.4 --- Made by following Stephen Ulibarri's course : "Create a fast-paced, competitive multiplayer shooter in Unreal Engine 5 using C++!" 
 
+This plugin uses the `OnlineSubsystemSteam` plugin to create and manage multiplayer sessions. It is a simple plugin that allows you to create a session with the choice of player number, join a session, and destroy a session.
+
 ## Setup
 1. Clone the repository
 2. Open the file folder at the root of your project
